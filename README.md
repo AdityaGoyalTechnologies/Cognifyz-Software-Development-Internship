@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Cognifyz Software Development Internship - Python Projects
 
 ## 🚀 Overview
